@@ -1,6 +1,6 @@
 // config.js
 module.exports = {
-    token: "Your_Token",
+    token: "",
     prefix: "!",
-    allowedUserIDs: ['yourid1', 'yourid2', 'yourid3']
+    allowedUserIDs: ['1139794777680908318', 'yourid2', 'yourid3']
 };
