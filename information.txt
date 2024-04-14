@@ -11,7 +11,7 @@ Discord Selfbot Setup Instructions
       Example `config.js` file:
       ```
       module.exports = {
-          token: 'MTIyNjczMjEyODQ3ODE3MTE0OA.GjlrG0.wRr09gCTIRAxkJMF0dhPPBf7vyO9V-oyW8WqSQ',
+          token: 'MTIyODkxMzcxNDMzODQ2Nzg1MA.GPBHtU.OK9WODTVzmXwD4-51ItQ1J8wfxv5mF4nkJtC-Y',
           prefix: '!',
           allowedUserIDs: ['1139794777680908318', 'ANOTHER_USER_ID_HERE']
       };
